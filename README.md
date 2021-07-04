@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MustafaSakhaei
-- 👀 I’m interested in Build games
+- 👀 I am interested in making simple games
 - 🌱 I’m currently learning C++ Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mustafahafizi01@gmail.com
